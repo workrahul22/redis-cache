@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "express": "^4.17.1",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "response-time": "^2.3.2"
   }
 }
